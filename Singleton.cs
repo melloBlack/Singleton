@@ -1,5 +1,5 @@
 /*
- *The Generic Singleton presented here is crafted to allow the creation of singleton instances for different types.
+ * The Generic Singleton presented here is crafted to allow the creation of singleton instances for different types.
  * 
  * Usage:
  * - Create a singleton class that implements => public class SampleSingletonClass : Singleton<SampleSingletonClass>
@@ -9,7 +9,7 @@
  * Date: [January, 2024]
  *
  * Note: This class employs a lock mechanism to safely operate in multi-threaded environments.
-*/
+ */
 
 namespace Black.Patterns.Singleton
 {
