@@ -11,7 +11,7 @@
  * Note: This class employs a lock mechanism to safely operate in multi-threaded environments.
  */
 
-namespace Black.Patterns.Singleton
+namespace Patterns.Singleton
 {
     public class Singleton<T> where T : class, new()
     {
