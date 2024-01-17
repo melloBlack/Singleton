@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Black.Patterns.Singleton.Examples
+namespace Patterns.Singleton.Examples
 {
     public class SampleMonoSingletonClass : MonoSingleton<SampleMonoSingletonClass>
     {
