@@ -20,7 +20,7 @@
 
 using UnityEngine;
 
-namespace Black.Patterns.Singleton
+namespace Patterns.Singleton
 {
     public class MonoSingleton<T> : MonoBehaviour where T : MonoBehaviour
     {
