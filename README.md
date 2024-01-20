@@ -36,7 +36,7 @@
 ```
 
 ### Singleton for Concrete class
-- Create a class that you want to pool.
+- Create a class that you want to make singleton.
 
  ```csharp
     public class SampleSingletonObject
